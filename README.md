@@ -18,9 +18,6 @@
   - [Assembly](#assembly)
 - [Uploading the Code](#uploading-the-code)
 - [Usage](#usage)
-- [Project Files](#project-files)
-- [Acknowledgements](#acknowledgements)
-
 ---
 
 ## 📌 About the Project
@@ -148,17 +145,3 @@ Once running, open the web app to:
 - Create and manage watering schedules
 - Manually water your plant with the quick water button
 
----
-
-## 📁 Project Files
-
-### Wiring Diagram
-> `![Wiring Diagram](docs/wiring-diagram.png)`
-
-### Laser Cut File
-> `![Laser Cut File](docs/laser-cut-file.png)`
-
-### 3D Print File
-> `![3D Print File](planter_file.stl)`
-
----

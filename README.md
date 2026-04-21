@@ -2,7 +2,7 @@
 
 ---
 
-## 📖 Table of Contents
+## Table of Contents
 
 - [About the Project](#about-the-project)
 - [Features](#features)
@@ -20,7 +20,7 @@
 - [Usage](#usage)
 ---
 
-## 📌 About the Project
+## About the Project
 
 Project Happy Plant is a mission to provide species-specific, hassle-free plant care while fostering a deeper connection to nature. The project has two parts:
 
@@ -31,7 +31,7 @@ Developed in collaboration with a local plant shop, Project Happy Plant makes ke
 
 ---
 
-## ✨ Features
+## Features
 
 - 💧 **Automated Watering** — create a custom watering schedule to automate your plant care
 - 🌿 **Developed with Local Plant Experts** — built in collaboration with a local plant shop to ensure the best care possible
@@ -45,7 +45,7 @@ Developed in collaboration with a local plant shop, Project Happy Plant makes ke
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 | Layer | Technology |
 |-------|------------|
@@ -55,7 +55,7 @@ Developed in collaboration with a local plant shop, Project Happy Plant makes ke
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Materials
 
@@ -88,7 +88,7 @@ Developed in collaboration with a local plant shop, Project Happy Plant makes ke
 
 ---
 
-## 🏭 Manufacturing
+## Manufacturing
 
 ### Planter
 
@@ -121,7 +121,7 @@ Developed in collaboration with a local plant shop, Project Happy Plant makes ke
 
 ---
 
-## 📤 Uploading the Code
+## Uploading the Code
 
 ### Prerequisites
 - VS Code with the [PlatformIO extension](https://platformio.org/install/ide?install=vscode) installed

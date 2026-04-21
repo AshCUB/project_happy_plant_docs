@@ -14,6 +14,7 @@
   - [Planter](#planter)
   - [Electronics](#electronics)
   - [Lid](#lid)
+  - [Window](#window)
   - [Assembly](#assembly)
 - [Uploading the Code](#uploading-the-code)
 - [Usage](#usage)
@@ -106,7 +107,12 @@ Developed in collaboration with a local plant shop, Project Happy Plant makes ke
 ### Lid
 
 1. Place acrylic sheet in the laser cutter
-2. Send the laser cut file and run
+2. Send the lid laser cut file and run
+
+### Window
+
+1. Place acrylic sheet in the laser cutter
+2. Send the window laser cut file and run
 
 ### Assembly
 

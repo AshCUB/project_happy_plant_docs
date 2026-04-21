@@ -159,6 +159,6 @@ Once running, open the web app to:
 > `![Laser Cut File](docs/laser-cut-file.png)`
 
 ### 3D Print File
-> `![3D Print File](docs/3d-print-file.png)`
+> `![3D Print File](planter_file.stl)`
 
 ---
